@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiGames.Data", "WebApiG
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiGames.Business", "WebApiGames.Business\WebApiGames.Business.csproj", "{0099661C-33EB-4063-95C2-82FEC0BC6FAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp", "BlazorApp\BlazorApp.csproj", "{9225A26E-870D-4267-AC2B-884588830435}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorApp", "BlazorApp\BlazorApp.csproj", "{9225A26E-870D-4267-AC2B-884588830435}"
 	ProjectSection(ProjectDependencies) = postProject
 		{CF0E2FC3-5F21-4450-90CA-F98B083F3DE1} = {CF0E2FC3-5F21-4450-90CA-F98B083F3DE1}
 	EndProjectSection
